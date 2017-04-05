@@ -1,6 +1,6 @@
 pkgname=dosfstools
 pkgver=4.0
-pkgrel=5
+pkgrel=6
 pkgdesc="DOS filesystem utilities."
 arch=('x86_64')
 depends=('glibc')
